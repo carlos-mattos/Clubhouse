@@ -20,6 +20,7 @@ semelhantes, o Call-Club oferece um ambiente de bate-papo por voz, em que basta 
 - [PeerJS](https://peerjs.com/)
 - [Firebase](https://firebase.google.com/?gclid=CjwKCAjw-qeFBhAsEiwA2G7Nl3Goc6fBI_ND9QVA505zJARuQgIa17_0MrTss7a5hLPR87Z2jd3s3xoCoF8QAvD_BwE&gclsrc=aw.ds)
 
+</br>
 
 ## 🗂 Como baixar e iniciar o projeto
 
