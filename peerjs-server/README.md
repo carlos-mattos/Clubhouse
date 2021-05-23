@@ -1,6 +1,6 @@
 ```bash
 # Abra um terminal e entre no diretorio **/peerjs-server**
-$ cd app
+$ cd peerjs-server
 
 # Instale as dependencias
 $ npm install
