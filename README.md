@@ -23,24 +23,17 @@ semelhantes, o Call-Club oferece um ambiente de bate-papo por voz, em que basta 
 
 ## 🗂 Como baixar e iniciar o projeto
 
-### API (Back-end)
+Dentro do README de cada subpasta do projeto é detalhado como executar as aplicações separadamente.
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/carlos-mattos/proffy.git
+$ git clone https://github.com/carlos-mattos/call-club.git
 # ou use a opção de download.
 
-# Entre na pasta server 
-$ cd proffy/server
-
-# Instale as dependências
-$ yarn install
-
-# Rode o servidor
-$ yarn start
+# Entrar no diretorio **/call-club**
+$ cd call-club
 ```
-e o QR Code exibido na janela do navegador.
-```
+
 <br>
 
 Desenvolvido por [Carlos Eduardo](https://www.linkedin.com/in/carlos-eduardo-andrade-de-mattos-a060b1182/) 🤓
